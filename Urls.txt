@@ -10,3 +10,10 @@
 /ADMIN/ADMINLOGIN.php
 /ADMIN/admin.php
 /ADMIN/adminlogin.php
+/admincp/login.php
+/admin/
+/admin/dashboard.php
+/admin-user.php
+/admin/home.php
+/administration/login.php
+/administration/
