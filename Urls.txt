@@ -1,0 +1,12 @@
+/admin/login.php
+/admin.php
+/administrator/login.php
+/admin/index.php
+/administrator/index.php
+/admin-login.php
+/adminlogin.php
+/admin.html
+/admin/adminLogin.php
+/ADMIN/ADMINLOGIN.php
+/ADMIN/admin.php
+/ADMIN/adminlogin.php
